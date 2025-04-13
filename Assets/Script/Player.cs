@@ -492,6 +492,7 @@ public class Player : MonoBehaviour
         
         m_levelManager.reloadScene();
     }
+    
 
     IEnumerator IETurnOffCollisonBySecond(float deltaTime)
     {
