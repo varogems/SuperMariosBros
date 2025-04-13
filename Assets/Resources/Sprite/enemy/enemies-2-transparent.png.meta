@@ -1,0 +1,6097 @@
+fileFormatVersion: 2
+guid: 7072b9c021f81354faec5f4e4097c16a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemies-2-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b6f8d90d6db2478588b1776df2404
+      internalID: 289787906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 341
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d603d3ba4727764295562dbfb605edc
+      internalID: 2146270983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795c5beb1f3f3d4ab557206a261cee3
+      internalID: 776376646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 341
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e304a32f8c444bb65e31fbf3887d4
+      internalID: 1568197804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 341
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae67b5d15b419d540b33c9d905b014ae
+      internalID: 645820751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 341
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74147378a4c54244197119ecd5f6eaa8
+      internalID: 1180146369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0dded6412ba714fb86ff8c80569420
+      internalID: 686232560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec651e27772d140a505cca7c1c700e
+      internalID: -943321276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651784b026883f84685f06cad97c62cd
+      internalID: -113213537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54afb39a459181459427a6d900fdb81
+      internalID: -1375355648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9a772d38fb7148b036ac79cd7f720
+      internalID: 108658766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f1be3e25f6324286af502272c675b
+      internalID: -1656686765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d0cafa7b2eac429579a6d4ab88d0e
+      internalID: 35055088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 342
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea984f7dcd4baac479e6e111d1742d86
+      internalID: -963469172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753050c2dbb43e46862854138c85354
+      internalID: 1920305378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 342
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12402ca8d77c46e48a2339973feed1b1
+      internalID: 1037835691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 343
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ca4e5ad6b208c4bb148e99898995e5
+      internalID: -1685694334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 343
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd8ab62d6b713641a176ae19a0d0498
+      internalID: 1581596213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 343
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778e2149c9cf61418cf4543a8a5aa23
+      internalID: -1789996009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_20
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 343
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12756db20f4d39408816b702e67046e
+      internalID: 1992752818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 343
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ab6a88e8e5844b90f8b4a2937a285
+      internalID: 1121493109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 343
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7302fa06e80b4459c5d0ae6e77359f
+      internalID: 793470108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 343
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15a855609569144a8a15554c5f178c
+      internalID: 220097798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 343
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199c2c72d8d84f4c9709095dd1b03de
+      internalID: -1757528795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 343
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596dbc873256d3d40a93c6f49a675b57
+      internalID: 741471115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 343
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792d6f38a7024d43be617a7d1f660da
+      internalID: 679945534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 343
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681015bb7208351458149f69959da50e
+      internalID: 1438900169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417e557cfb245614a8bb9aa2e0838363
+      internalID: -1480845441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288aeb9e744fd2b44852b4fe87dfaf22
+      internalID: 304788961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 322
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d711b63add587cd48b02c7dd0af9ae96
+      internalID: -827963972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 322
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371f37791b1cff4a962ec5f3ac09b83
+      internalID: -305600970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 322
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078a660869bbea43bac9477cdfbbb32
+      internalID: 1518718508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 322
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e05af110f917468eed981c4906ee8
+      internalID: 1441286447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc22aab3be0ea04987d53848c4d7f2c
+      internalID: -1896625211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 321
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854d891fab2ae74481ffe90f1f0396b
+      internalID: 2038313546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 321
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105681300a1932945b8a420c20567caa
+      internalID: 1848000846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 321
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682903d96381154f88d6ec60a600e47
+      internalID: -329935324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 321
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb387c7f507484b9d0adc6dcd16260
+      internalID: -115303107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 321
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf2d5420a0bc24e973754e61c0209e
+      internalID: 2042043215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 322
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0814ddfb6fc4c7b48a754a7676195d4a
+      internalID: 643652153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 321
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1459b0ed5794d47b2fd05ec144508e
+      internalID: -970199651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 322
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834bd5cad1011f14e8eaf1606dab16ca
+      internalID: 1806043797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 321
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31ab4d802c3f504d81b2aab6da12808
+      internalID: -364252188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_44
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 322
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d801b05b094e48849a9430d7168fb30b
+      internalID: -1275990211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 325
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2addc33e5cc6baf4096a0b15670d77bc
+      internalID: 1427444081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 325
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f9125f2dd68d43b2cbafd0ee5913b
+      internalID: -96099460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 325
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d3393c6136b34aae1b24482844d6f
+      internalID: 1245063975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 325
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe0d8d8b1c0364aa7782f737ca27c9
+      internalID: -879714729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_49
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 326
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743ce315af7ec34ab43f687a51120d4
+      internalID: 1633202169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_50
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 326
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e4bca4a7f684498c4dbf9b04c1c4d
+      internalID: -2075618637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 326
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26b2aefabc7954dbd072ec8cb6089e
+      internalID: -713035135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_52
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 323
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a41eb83ffc2b4f996d9f45e430ee3
+      internalID: 1157112062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 323
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f3f4dab54ab044f87088fe888eb44d
+      internalID: -525436200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e40a4db5557c146ac6e85dc91095b4
+      internalID: -1032136461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 303
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488711424f13fe040ad71d6ef165d9cd
+      internalID: -1228061057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 303
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc97bc1440ccde48a19dedacba84d1b
+      internalID: 1467875389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 303
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22f91dcafdace4fb9be86ce544cbb0
+      internalID: 489264276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 303
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00384f57bccbf054c8b4bb0a9d55ac9b
+      internalID: -995998658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 303
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de65eedd4b2864f87a5d649a544833
+      internalID: -1308072526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881169881144c6a48a0bd2a402c67695
+      internalID: -266712183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_61
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 302
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33faa1f685e35f9468d223565c364740
+      internalID: -2093914876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 302
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36916e8fe573d3940aced6cc9296d773
+      internalID: 1689880392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 302
+        width: 18
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b31ab86ad0c14cb85f534c82a5c89
+      internalID: -698020431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 302
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e99b7f44c9084b9b6870d83df2cc2
+      internalID: 1286690887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_65
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4133adf561e6aeb4a896bb090e968c0e
+      internalID: -1836568832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1135a562b8ab12943b1d46ff346d90cc
+      internalID: 1417072202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d5fff0ea3f4f440b62df5686dbc854
+      internalID: -638202273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb676afcf2c6545bab20743ec8e804
+      internalID: -1688479360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78bd2fd848dd5046abb3a269ac5ae94
+      internalID: -1704460266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceafaa9b7d4835d4abc9adfcdc7d15ca
+      internalID: -1773834660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f1d0dfa5381984282d70a647ba0418
+      internalID: -1855768369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_72
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5814afc507872c5428bbb8179e584efc
+      internalID: -1950835686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c2bb3f18915c42b7b92b19664ad69
+      internalID: 667489057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9bcfbe29d16b41b6b80b24507faee
+      internalID: 1880158789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_75
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d065c927e67a7040874b757648ea66f
+      internalID: 1836768221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_76
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f8b594c533e7459925a4e1f36c08f
+      internalID: 1932933841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_77
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81736b17a716dc345ade05f99c832a37
+      internalID: -526722630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_78
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0af844d3f81a4fa1c483fc72fc387
+      internalID: 1059956692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_79
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 302
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ccac1779f7354da525eb46cf5a2d1
+      internalID: 172758644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_80
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 303
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec2eb7e33c0fe4ab158bba85914522
+      internalID: 1651898447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aac370c2c834946a463261df2ab230
+      internalID: 1873352167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 284
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5f5462fa7b3e4ab4a122668f9e2de
+      internalID: 1786848311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 284
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d8bfec269f214dababb8adef3827f
+      internalID: -1387105525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_84
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 284
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b68a7091914114d90af450a970f64f
+      internalID: 2027150186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_85
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 284
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eac152892b5cd4d9c39395eba473c3
+      internalID: 414438243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 284
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16bf5c5a743604d95667a100e5e090
+      internalID: 1630273912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 284
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560294bcbccd9224e91499e7038e9663
+      internalID: 726822908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 284
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5f85e8171b3fc4880ca5fd6cc1cdb3
+      internalID: 881770726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a92e20c61196e2498cd385f5023fc65
+      internalID: 791381919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_90
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 266
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cc7cb2c9547cf4e8518ba6454ca19c
+      internalID: -212583936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_91
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 284
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e386e08a4b5b947a2d30d7beadca8a
+      internalID: 1183255476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 284
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d825cbba7d8c8148a20e2d5b23584b3
+      internalID: -1430998682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 284
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bdeb23c5e38f741bf0b79a88d421a9
+      internalID: -486481641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_94
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 266
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91a594351bcdb4d8985194979af994
+      internalID: -1261183691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_95
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 284
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdff4f54db801640bb285efb7f281db
+      internalID: 1832059005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_96
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 284
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc699477a525d5438daff40bcbd700a
+      internalID: -1654194811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 284
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de8c9e20140da4c87762a7efde07bd
+      internalID: 1665443035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_98
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 266
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc836c68c58e3cc4d94de8939f1fa7f6
+      internalID: 1730675343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 284
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7bfd5643c36bd42bd7ef2bc7d334db
+      internalID: 449507198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_100
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 284
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327a0ad6e7a0a64b8fe83d313caf384
+      internalID: -1589012573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 284
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94985fa44ccefd849a89eab7556ab2e2
+      internalID: 1478747217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 284
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0132a66317c94ab7a3e682f94f0fc
+      internalID: 1739874378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_103
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 284
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a715e3e7f1244bb4e19188fbee24b
+      internalID: 465198089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_104
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e610ac410ab2459852d29472ce24b
+      internalID: -1155673481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_105
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 284
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a148f32aab603541b619226d1af2197
+      internalID: -1098555521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_106
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91021e24aba111b48992e603c66cbc6b
+      internalID: -201003901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_107
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 284
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a423392e129a78849b483d5dd15a58b9
+      internalID: 1011446459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_108
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8c84d51fd632438304d6912950e54
+      internalID: -257590692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_109
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 284
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e159146370d964a981c44ea47e7ba5
+      internalID: 624832843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cd1b0cc7b8e164082024c0b6debd2b
+      internalID: 610198105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_111
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 284
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11ca488c781cf4c92a93f93103c837
+      internalID: 754683880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda04a2d3eefb624db906d2a5c831d32
+      internalID: 72306476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 284
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed56cb5056bac4695c39840d7e662e
+      internalID: -941154484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854188be026cccb4f8d1ba31028cc3d0
+      internalID: -1109286357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 284
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50962b636e168a945957ac47f3ce2805
+      internalID: -1633092311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_116
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f41451e642699409bc805c320a3f5c
+      internalID: 593949910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_117
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 284
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ede93bfefdf54daae6183e1686342
+      internalID: -155796614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_118
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 284
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2542d2d0140654a90994f4b2f56285
+      internalID: 1189277324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_119
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 284
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8e8672611526458a80a44f8f2eb35
+      internalID: -1702261916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_120
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 286
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a315abd853a79da40b3c6b9982b41946
+      internalID: -1498713465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_121
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 288
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eed4b9b37e1bbb40b2069f04c252a5b
+      internalID: 1277306240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_122
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 282
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdc86675fe705f4497e04a28f130e41
+      internalID: 292694065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_123
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 286
+        width: 18
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0490bf06f7e2c47914c17365e273e3
+      internalID: 1052997069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_124
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 266
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d66413d71f9174dbf3786dc6ffff71
+      internalID: -994009633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_125
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 266
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f25e613953062943812e931def14fa7
+      internalID: 1365075849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_126
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 233
+        width: 155
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64964a20ce4931f44b0e52f173504e98
+      internalID: 649061825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_127
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 268
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b60e2c66c4fd4ba99642d46d1c644
+      internalID: 442669811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_128
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 268
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a0a911a0a29be4eb31d66eecbe981f
+      internalID: 1008933586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_129
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 268
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbcf09228bbd8a4b94d2c4594bb1ac9
+      internalID: -1330319426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 268
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa7df2dba8b824cbac5045244a95bb
+      internalID: 477571217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_131
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 268
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664b1f1f026ca51419c832b5d60ab3ea
+      internalID: 612310294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_132
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 267
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33bf0b2cd2b6d548b8425a9bc46b36f
+      internalID: -891575587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_133
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 269
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267c2dcaacd936a42826b317197aeb04
+      internalID: 1390206427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_134
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 271
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29586636a13004439530f26e5428012
+      internalID: 594042771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_135
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 262
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eaf16af8bf5fa4e81f80293ff11113
+      internalID: 564345002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_136
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 266
+        width: 18
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd9531892cbc3f4d942850980a5ad25
+      internalID: 250100463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_137
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 249
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c991de63600f591409d260e6ed405443
+      internalID: -499776236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_138
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 249
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea343b3dea0e15a4299c7a2fc73d884a
+      internalID: 812364414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_139
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 249
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0cd06cd7633c46a4089336da82dd5
+      internalID: 1813501091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_140
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 249
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9919d26c03dc49afa375084c5a409
+      internalID: 1385774006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_141
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 249
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f2bf256e2072479eced9e6292ef18
+      internalID: -1409963327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_142
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 250
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18753ccd451b60541ad2e25baeb917bb
+      internalID: -578295618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 252
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11af4250012814d9f0d519e960e561
+      internalID: 2095546588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_144
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 254
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a58086ffb7dda4e8b5a359880207cb
+      internalID: -369567175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_145
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 238
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5994ccbdb1bd84a9334adcf3a26337
+      internalID: -856000026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_146
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 243
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98dc3c3dca8354c84a5aa3dc45900a
+      internalID: -351958892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_147
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 222
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e79e40ce5e2641874943f003ae49b
+      internalID: 1744587978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_148
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 222
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62f5997828eb144b32b61651da33fa
+      internalID: -2077269632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_149
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 222
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd5597c51d984446b486967fa1811f6
+      internalID: 1121820161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_150
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 222
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199544818ce5a04f85efb385986c0f1
+      internalID: 1576443619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_151
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 233
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dc4df074fd87d41beab306d325a973
+      internalID: -1750360441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_152
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 235
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bfb1326944d38439419f4b8ea2c90f
+      internalID: -980591525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_153
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 237
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854964fc459c0e244b4f8dd396734ec7
+      internalID: 1857157249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_154
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa15e5ec0ef4049b08a638040c84f9
+      internalID: -287455630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_155
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f34c121157d8884fa5c42b7064a0e1b
+      internalID: 1620513722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_156
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302fe41de1af8d44f812140c3573c533
+      internalID: 282991665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_157
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834079fb1e622040bbd9abb50b8fb5e
+      internalID: -1932523616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_158
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4162d0c18467cd74384dfe26ab3dad66
+      internalID: 1177100521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_159
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d054e8114788ad543b28ef6658ebd24d
+      internalID: 1433197447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_160
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ab9a8c29e42d4eb480c6709a3d869
+      internalID: -1948093504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_161
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 203
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dca32be3d720224d98e2f1c374fdce8
+      internalID: -1777584297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_162
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 203
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d006aa45ca95f7a45acca8a40537b368
+      internalID: -1085901884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_163
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 216
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b7e1cc755d29b4b8a939656d5238fd
+      internalID: 346075818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_164
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 218
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa5308e2844cb441807e769a3f9f55e
+      internalID: -1083752394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_165
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 220
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e6ba5493a7384a989537d8c4dc7f8
+      internalID: 1058882585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 203
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4ae76759060c45b24c8657493fc4d
+      internalID: 823937294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_167
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 203
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb980f81e63ba748b0fae7ab5801f17
+      internalID: -1044267195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_168
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 203
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646ddf7f71932243b36f2f5937bd5f4
+      internalID: 1822728597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_169
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 203
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac7aed01d659a41a2b4b95f6b06f74
+      internalID: 1391897902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6dff4e61430645b08f49d0114d3ae
+      internalID: 692661694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_171
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 174
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ead6777f2fbbc4f9092631eed1fb40
+      internalID: -370767907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_172
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8fafc9bed20b4fb0f8d70699f0cd3
+      internalID: -1041687494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_173
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 174
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b20128316ce34c9aeb2746185156e
+      internalID: 1225492403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_174
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 174
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f3ffffe0b38d49b80e2e266fb6265
+      internalID: 404857233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_175
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 174
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6403d055609bbc7409fff4a7164ac5b4
+      internalID: -1592298887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_176
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 174
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb92c77310eb924ca125abc040dd8e9
+      internalID: 422928203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_177
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 174
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51feedaeeb65a47a2b924e1f4634a3
+      internalID: -2046616245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_178
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 174
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511ac7258ccf8242af274cf862991e2
+      internalID: -2055386588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_179
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 174
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8633b2241efa24bbfd900cc61be33b
+      internalID: 412000245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_180
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 174
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a925d761377b44946bed3bacd311ac01
+      internalID: -2030972190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 174
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5e0c39e9d3b854eaa299686fcea3ee
+      internalID: -1112650063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_182
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 174
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7096444b3515364f87575e3dbecf803
+      internalID: 1797024143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_183
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 174
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14035d5fbcb021a47bec2f5964432f76
+      internalID: -539273117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_184
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 174
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107b13d034e4304eb859741fbda5575
+      internalID: -1546105515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_185
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 174
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec96ea78be50f43a99f1c0d2f73c25
+      internalID: 451616399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_186
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 174
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b87737bb3d25304d915f75ad85f04f7
+      internalID: 1630523076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_187
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 174
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af548d1bb3f6149afde60bb5f43298
+      internalID: 734539306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_188
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 174
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad6332a399b63a4caa523c47a32ecbd
+      internalID: -1812832426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b3b7e96b6657842b2680248fa8f2c9
+      internalID: -1316390492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_190
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250bb829f3683e646b8d6ec8a0611750
+      internalID: 2101056369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_191
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2dd1e62ae869648a6591f00733b271
+      internalID: 643192846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_192
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 156
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d4af78cc0cc0040a531d036fdc778d
+      internalID: -1195490387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_193
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fc2c715437544c9adc4be4755f314
+      internalID: 501061214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_194
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a29131f56270794f9b56fa0860715e2
+      internalID: 1234817654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_195
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc9f525c6ab5004c883026f5e9031e6
+      internalID: 1416327694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_196
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 156
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf9f7c8bc0b464b83001de5a29eb2a
+      internalID: 1373719897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_197
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85764e160f010de46a235fed6eefbb1a
+      internalID: 2017036560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_198
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478fcc46bae69e443975dc8147a48c9e
+      internalID: -681476444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_199
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0514719b3258e849b78c8012317ed43
+      internalID: 551246981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_200
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 156
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e70b23ce9df374194e388174fd879c
+      internalID: 1956236560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_201
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9513cb1a3bf104ba1581ee2c99b9d0
+      internalID: -2139168649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_202
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b016db32dcd5fa1478e68a21b5b800db
+      internalID: 683672162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_203
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 156
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d0b227804db547a7f405755e04d4b
+      internalID: -1838651296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_204
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 156
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426fd2b366e6bf945ab16e79227dcefb
+      internalID: -2122825663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_205
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 147
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b8bf2e9eff6e478a72b3d300eafdc
+      internalID: -1089308810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_206
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 147
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0aa8db885477439b53954ae9d596d
+      internalID: -1349694742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_207
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 147
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7e94f1c551c84aa253a84b4530d0e
+      internalID: 12628849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_208
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 147
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8b346b3515e0c4cb590e4019ff7d2a
+      internalID: -1271568027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 147
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319bb2ea9094914e8f21417b113538e
+      internalID: -2104992190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_210
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 147
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f650208fe2c44d91e76733edfe0f9
+      internalID: 1507845757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_211
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d700fe6ae495849abe5a9fbdd5d802
+      internalID: -686370433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_212
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0e2d9b6cf8c54d8eff462416329bc
+      internalID: -1737205805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_213
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2603355bc242b499f53eb478ec4aa2
+      internalID: -1830289606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_214
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6134fac2ad09fe44b0599cf6174871c
+      internalID: -2090303671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_215
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce15b1aadfd555449da13bc8d0215bd
+      internalID: 1065028115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 119
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799b563bde5f0543b7c486196721fbd
+      internalID: -534478070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_217
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47172c9238df3e4a81bc1a3b6cd2413
+      internalID: 1126320153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_218
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2aa4bcc7e38724ab3ea85e0c031275
+      internalID: 718781678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_219
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d13e0b4c050b0c4c8c47b53e462bca0
+      internalID: 810275246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_220
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 119
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33fb319da3e9240a14aefe65329fb4
+      internalID: -1400609114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 119
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918eb5bc09be6c44b93204193fedf194
+      internalID: -1156058319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_222
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa848315fae38c44ea9a3e8042c5ab50
+      internalID: 1222570862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_223
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d81d68cd766a4ab1e7a82640ec995
+      internalID: -190533179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_224
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 119
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb08635540cbe468dd193f2bbc1334
+      internalID: -184961124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_225
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 119
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b54398d28794445a3cfe8297126f03
+      internalID: -1469667930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_226
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 120
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a163c585fd364e9773e1df3215289
+      internalID: -689019780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_227
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 120
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176db2b896599b041b6e038ded1d797d
+      internalID: 881129007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_228
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 120
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076d81bc8eefd44c8ce5308af87fd44
+      internalID: -2074712304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_229
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 120
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f770042adab9af4e8fea83c3c26122d
+      internalID: 2023458311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd65b677759c094e93de21d7ba2da8d
+      internalID: -1059967386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_231
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 120
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2f6df2814ddf4592bbf3330beb70e
+      internalID: 1500010873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_232
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531da538a8a6cd249b5b96ceba238197
+      internalID: 2039899429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_233
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b69fff1a110e45afca8811772e493
+      internalID: -1958601588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_234
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 97
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3026a8fb15a4a045af99f0616700af4
+      internalID: -972428334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_235
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 97
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715c996f95f92f469cf0d938416d056
+      internalID: 1273658487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_236
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110eb94f9cbd69409ac59e4cea9bc5e
+      internalID: -1738501740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_237
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 97
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5070ea4da7ef048bab8a5d392017b2
+      internalID: 557053449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_238
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 97
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d7b00958f0fa4ab527cb5190f2368
+      internalID: 574941881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_239
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 97
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eed98542e4f83439839d5ed6b23a68
+      internalID: -1776238367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_240
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 98
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baee2ba1d96f7d241afcf41c83525dbd
+      internalID: 892686871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_241
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b2d5f633a1134eb585ccc28cd1525
+      internalID: -347193930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_242
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7583a9852a3cd3488918851fa0f6326
+      internalID: -949192387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_243
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b547d310a449146ae91848b80ae75a
+      internalID: 1223632836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_244
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 77
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2db12ddc09df429c28ff7a15e05d7
+      internalID: -1495357636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_245
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 77
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752721827fbf008428200d69970e6894
+      internalID: 359074159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0411e16ae3b0bf1439d0dfd9b51f9f54
+      internalID: 1241269339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_246
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 77
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e28cd37227faa4fb83429bd328affb
+      internalID: -1981362927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_247
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 77
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc4f93b9345e5459a6a075941315c1
+      internalID: -855757475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_248
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 77
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df61160c6d5012243a325af7c04ce72a
+      internalID: -629452814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_249
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 78
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b58158597bf0644aaf0cbcc0cf66a04
+      internalID: 1488783265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_250
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643da4d9d5f0ea141b1a2b55ca0c5221
+      internalID: 1563503674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_251
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2302a2cb93a14aa75beabfd90efe2
+      internalID: 1420683787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_252
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 57
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344604e5b2bd4eb448fcb5e97d367f1e
+      internalID: 1121555762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_253
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016aa3a2d46547c4aaacf97e682e42ef
+      internalID: 615478823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_254
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 57
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b20fb8be8fb9d41b1f1291309d997b
+      internalID: -887346881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_255
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 57
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694ff026ed60b943baf2da13f2f572c
+      internalID: 392104131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_256
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 57
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df89065c754a3243beee3e644e17f22
+      internalID: -1985818393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_257
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 57
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7d66200b78d342a1e41b9acf1f9a4
+      internalID: 109585485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_258
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 58
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed0944014bb99448683cc5e29503ce
+      internalID: 1461574424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_259
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03cd12e0be15954f8f3c0ec766648c6
+      internalID: -476543622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_260
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a134ff5413fd4d9414cc058a63c4e
+      internalID: -1970155499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_261
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8490b3e19220d40a3e0d86e7b1a4bf
+      internalID: 2005820454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_262
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315467ad4bf2a94c9db0a105e696874
+      internalID: 1789078289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_263
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 37
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435307ee52a23944499d96d1400219ba
+      internalID: -1037025030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_264
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 37
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a9c8597e993844b9a60b30ee4573b3
+      internalID: 1605408388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_265
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 37
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acbf4fffce3aed41abaad3bf0a58e23
+      internalID: -219208116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_266
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2c51abdff32346a782b482887b9ea
+      internalID: -892275716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_267
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a150f7fe185ac46b7e396d83a4dd60
+      internalID: 1570414779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_268
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da07d347d8602409fd3e37a60dfb6c
+      internalID: 899566252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_269
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327beab707aacdb4989f865de840dfe7
+      internalID: -1007484588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-2-transparent_270
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1106e1d1484893544b55120965115e8c
+      internalID: 442975147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemies-2-transparent_0: 1241269339
+      enemies-2-transparent_1: 289787906
+      enemies-2-transparent_10: -1375355648
+      enemies-2-transparent_100: -1589012573
+      enemies-2-transparent_101: 1478747217
+      enemies-2-transparent_102: 1739874378
+      enemies-2-transparent_103: 465198089
+      enemies-2-transparent_104: -1155673481
+      enemies-2-transparent_105: -1098555521
+      enemies-2-transparent_106: -201003901
+      enemies-2-transparent_107: 1011446459
+      enemies-2-transparent_108: -257590692
+      enemies-2-transparent_109: 624832843
+      enemies-2-transparent_11: 108658766
+      enemies-2-transparent_110: 610198105
+      enemies-2-transparent_111: 754683880
+      enemies-2-transparent_112: 72306476
+      enemies-2-transparent_113: -941154484
+      enemies-2-transparent_114: -1109286357
+      enemies-2-transparent_115: -1633092311
+      enemies-2-transparent_116: 593949910
+      enemies-2-transparent_117: -155796614
+      enemies-2-transparent_118: 1189277324
+      enemies-2-transparent_119: -1702261916
+      enemies-2-transparent_12: -1656686765
+      enemies-2-transparent_120: -1498713465
+      enemies-2-transparent_121: 1277306240
+      enemies-2-transparent_122: 292694065
+      enemies-2-transparent_123: 1052997069
+      enemies-2-transparent_124: -994009633
+      enemies-2-transparent_125: 1365075849
+      enemies-2-transparent_126: 649061825
+      enemies-2-transparent_127: 442669811
+      enemies-2-transparent_128: 1008933586
+      enemies-2-transparent_129: -1330319426
+      enemies-2-transparent_13: 35055088
+      enemies-2-transparent_130: 477571217
+      enemies-2-transparent_131: 612310294
+      enemies-2-transparent_132: -891575587
+      enemies-2-transparent_133: 1390206427
+      enemies-2-transparent_134: 594042771
+      enemies-2-transparent_135: 564345002
+      enemies-2-transparent_136: 250100463
+      enemies-2-transparent_137: -499776236
+      enemies-2-transparent_138: 812364414
+      enemies-2-transparent_139: 1813501091
+      enemies-2-transparent_14: -963469172
+      enemies-2-transparent_140: 1385774006
+      enemies-2-transparent_141: -1409963327
+      enemies-2-transparent_142: -578295618
+      enemies-2-transparent_143: 2095546588
+      enemies-2-transparent_144: -369567175
+      enemies-2-transparent_145: -856000026
+      enemies-2-transparent_146: -351958892
+      enemies-2-transparent_147: 1744587978
+      enemies-2-transparent_148: -2077269632
+      enemies-2-transparent_149: 1121820161
+      enemies-2-transparent_15: 1920305378
+      enemies-2-transparent_150: 1576443619
+      enemies-2-transparent_151: -1750360441
+      enemies-2-transparent_152: -980591525
+      enemies-2-transparent_153: 1857157249
+      enemies-2-transparent_154: -287455630
+      enemies-2-transparent_155: 1620513722
+      enemies-2-transparent_156: 282991665
+      enemies-2-transparent_157: -1932523616
+      enemies-2-transparent_158: 1177100521
+      enemies-2-transparent_159: 1433197447
+      enemies-2-transparent_16: 1037835691
+      enemies-2-transparent_160: -1948093504
+      enemies-2-transparent_161: -1777584297
+      enemies-2-transparent_162: -1085901884
+      enemies-2-transparent_163: 346075818
+      enemies-2-transparent_164: -1083752394
+      enemies-2-transparent_165: 1058882585
+      enemies-2-transparent_166: 823937294
+      enemies-2-transparent_167: -1044267195
+      enemies-2-transparent_168: 1822728597
+      enemies-2-transparent_169: 1391897902
+      enemies-2-transparent_17: -1685694334
+      enemies-2-transparent_170: 692661694
+      enemies-2-transparent_171: -370767907
+      enemies-2-transparent_172: -1041687494
+      enemies-2-transparent_173: 1225492403
+      enemies-2-transparent_174: 404857233
+      enemies-2-transparent_175: -1592298887
+      enemies-2-transparent_176: 422928203
+      enemies-2-transparent_177: -2046616245
+      enemies-2-transparent_178: -2055386588
+      enemies-2-transparent_179: 412000245
+      enemies-2-transparent_18: 1581596213
+      enemies-2-transparent_180: -2030972190
+      enemies-2-transparent_181: -1112650063
+      enemies-2-transparent_182: 1797024143
+      enemies-2-transparent_183: -539273117
+      enemies-2-transparent_184: -1546105515
+      enemies-2-transparent_185: 451616399
+      enemies-2-transparent_186: 1630523076
+      enemies-2-transparent_187: 734539306
+      enemies-2-transparent_188: -1812832426
+      enemies-2-transparent_189: -1316390492
+      enemies-2-transparent_19: -1789996009
+      enemies-2-transparent_190: 2101056369
+      enemies-2-transparent_191: 643192846
+      enemies-2-transparent_192: -1195490387
+      enemies-2-transparent_193: 501061214
+      enemies-2-transparent_194: 1234817654
+      enemies-2-transparent_195: 1416327694
+      enemies-2-transparent_196: 1373719897
+      enemies-2-transparent_197: 2017036560
+      enemies-2-transparent_198: -681476444
+      enemies-2-transparent_199: 551246981
+      enemies-2-transparent_2: 2146270983
+      enemies-2-transparent_20: 1992752818
+      enemies-2-transparent_200: 1956236560
+      enemies-2-transparent_201: -2139168649
+      enemies-2-transparent_202: 683672162
+      enemies-2-transparent_203: -1838651296
+      enemies-2-transparent_204: -2122825663
+      enemies-2-transparent_205: -1089308810
+      enemies-2-transparent_206: -1349694742
+      enemies-2-transparent_207: 12628849
+      enemies-2-transparent_208: -1271568027
+      enemies-2-transparent_209: -2104992190
+      enemies-2-transparent_21: 1121493109
+      enemies-2-transparent_210: 1507845757
+      enemies-2-transparent_211: -686370433
+      enemies-2-transparent_212: -1737205805
+      enemies-2-transparent_213: -1830289606
+      enemies-2-transparent_214: -2090303671
+      enemies-2-transparent_215: 1065028115
+      enemies-2-transparent_216: -534478070
+      enemies-2-transparent_217: 1126320153
+      enemies-2-transparent_218: 718781678
+      enemies-2-transparent_219: 810275246
+      enemies-2-transparent_22: 793470108
+      enemies-2-transparent_220: -1400609114
+      enemies-2-transparent_221: -1156058319
+      enemies-2-transparent_222: 1222570862
+      enemies-2-transparent_223: -190533179
+      enemies-2-transparent_224: -184961124
+      enemies-2-transparent_225: -1469667930
+      enemies-2-transparent_226: -689019780
+      enemies-2-transparent_227: 881129007
+      enemies-2-transparent_228: -2074712304
+      enemies-2-transparent_229: 2023458311
+      enemies-2-transparent_23: 220097798
+      enemies-2-transparent_230: -1059967386
+      enemies-2-transparent_231: 1500010873
+      enemies-2-transparent_232: 2039899429
+      enemies-2-transparent_233: -1958601588
+      enemies-2-transparent_234: -972428334
+      enemies-2-transparent_235: 1273658487
+      enemies-2-transparent_236: -1738501740
+      enemies-2-transparent_237: 557053449
+      enemies-2-transparent_238: 574941881
+      enemies-2-transparent_239: -1776238367
+      enemies-2-transparent_24: -1757528795
+      enemies-2-transparent_240: 892686871
+      enemies-2-transparent_241: -347193930
+      enemies-2-transparent_242: -949192387
+      enemies-2-transparent_243: 1223632836
+      enemies-2-transparent_244: -1495357636
+      enemies-2-transparent_245: 359074159
+      enemies-2-transparent_246: -1981362927
+      enemies-2-transparent_247: -855757475
+      enemies-2-transparent_248: -629452814
+      enemies-2-transparent_249: 1488783265
+      enemies-2-transparent_25: 741471115
+      enemies-2-transparent_250: 1563503674
+      enemies-2-transparent_251: 1420683787
+      enemies-2-transparent_252: 1121555762
+      enemies-2-transparent_253: 615478823
+      enemies-2-transparent_254: -887346881
+      enemies-2-transparent_255: 392104131
+      enemies-2-transparent_256: -1985818393
+      enemies-2-transparent_257: 109585485
+      enemies-2-transparent_258: 1461574424
+      enemies-2-transparent_259: -476543622
+      enemies-2-transparent_26: 679945534
+      enemies-2-transparent_260: -1970155499
+      enemies-2-transparent_261: 2005820454
+      enemies-2-transparent_262: 1789078289
+      enemies-2-transparent_263: -1037025030
+      enemies-2-transparent_264: 1605408388
+      enemies-2-transparent_265: -219208116
+      enemies-2-transparent_266: -892275716
+      enemies-2-transparent_267: 1570414779
+      enemies-2-transparent_268: 899566252
+      enemies-2-transparent_269: -1007484588
+      enemies-2-transparent_27: 1438900169
+      enemies-2-transparent_270: 442975147
+      enemies-2-transparent_28: -1480845441
+      enemies-2-transparent_29: 304788961
+      enemies-2-transparent_3: 776376646
+      enemies-2-transparent_30: -827963972
+      enemies-2-transparent_31: -305600970
+      enemies-2-transparent_32: 1518718508
+      enemies-2-transparent_33: 1441286447
+      enemies-2-transparent_34: -1896625211
+      enemies-2-transparent_35: 2038313546
+      enemies-2-transparent_36: 1848000846
+      enemies-2-transparent_37: -329935324
+      enemies-2-transparent_38: -115303107
+      enemies-2-transparent_39: 2042043215
+      enemies-2-transparent_4: 1568197804
+      enemies-2-transparent_40: 643652153
+      enemies-2-transparent_41: -970199651
+      enemies-2-transparent_42: 1806043797
+      enemies-2-transparent_43: -364252188
+      enemies-2-transparent_44: -1275990211
+      enemies-2-transparent_45: 1427444081
+      enemies-2-transparent_46: -96099460
+      enemies-2-transparent_47: 1245063975
+      enemies-2-transparent_48: -879714729
+      enemies-2-transparent_49: 1633202169
+      enemies-2-transparent_5: 645820751
+      enemies-2-transparent_50: -2075618637
+      enemies-2-transparent_51: -713035135
+      enemies-2-transparent_52: 1157112062
+      enemies-2-transparent_53: -525436200
+      enemies-2-transparent_54: -1032136461
+      enemies-2-transparent_55: -1228061057
+      enemies-2-transparent_56: 1467875389
+      enemies-2-transparent_57: 489264276
+      enemies-2-transparent_58: -995998658
+      enemies-2-transparent_59: -1308072526
+      enemies-2-transparent_6: 1180146369
+      enemies-2-transparent_60: -266712183
+      enemies-2-transparent_61: -2093914876
+      enemies-2-transparent_62: 1689880392
+      enemies-2-transparent_63: -698020431
+      enemies-2-transparent_64: 1286690887
+      enemies-2-transparent_65: -1836568832
+      enemies-2-transparent_66: 1417072202
+      enemies-2-transparent_67: -638202273
+      enemies-2-transparent_68: -1688479360
+      enemies-2-transparent_69: -1704460266
+      enemies-2-transparent_7: 686232560
+      enemies-2-transparent_70: -1773834660
+      enemies-2-transparent_71: -1855768369
+      enemies-2-transparent_72: -1950835686
+      enemies-2-transparent_73: 667489057
+      enemies-2-transparent_74: 1880158789
+      enemies-2-transparent_75: 1836768221
+      enemies-2-transparent_76: 1932933841
+      enemies-2-transparent_77: -526722630
+      enemies-2-transparent_78: 1059956692
+      enemies-2-transparent_79: 172758644
+      enemies-2-transparent_8: -943321276
+      enemies-2-transparent_80: 1651898447
+      enemies-2-transparent_81: 1873352167
+      enemies-2-transparent_82: 1786848311
+      enemies-2-transparent_83: -1387105525
+      enemies-2-transparent_84: 2027150186
+      enemies-2-transparent_85: 414438243
+      enemies-2-transparent_86: 1630273912
+      enemies-2-transparent_87: 726822908
+      enemies-2-transparent_88: 881770726
+      enemies-2-transparent_89: 791381919
+      enemies-2-transparent_9: -113213537
+      enemies-2-transparent_90: -212583936
+      enemies-2-transparent_91: 1183255476
+      enemies-2-transparent_92: -1430998682
+      enemies-2-transparent_93: -486481641
+      enemies-2-transparent_94: -1261183691
+      enemies-2-transparent_95: 1832059005
+      enemies-2-transparent_96: -1654194811
+      enemies-2-transparent_97: 1665443035
+      enemies-2-transparent_98: 1730675343
+      enemies-2-transparent_99: 449507198
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

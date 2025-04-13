@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Block
+  - StairBlock
+  - Pipe
+  - Ground
+  - Player
+  - Coin
+  - LevelMushroom
+  - 
+  - 
+  - 
+  - TurtleCannon
+  - 
+  - 
+  - Castle
+  - Flag
+  - Bridge
+  - Island
+  - Danger
+  - Background
+  - Bullet Player
+  - 
+  - Boss
+  - BulletBoss
+  - Enemy
+  - TriggerEnemy
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 752025001
+    locked: 0
+  - name: Piranha Plant
+    uniqueID: 142003965
+    locked: 0
+  - name: Ground
+    uniqueID: 3875313377
+    locked: 0
+  - name: Tree
+    uniqueID: 677957031
+    locked: 0
+  - name: Fence
+    uniqueID: 556033915
+    locked: 0
+  - name: Bridge
+    uniqueID: 3003052491
+    locked: 0
+  - name: Island
+    uniqueID: 2337183101
+    locked: 0
+  - name: Castle
+    uniqueID: 1935267631
+    locked: 0
+  - name: Item
+    uniqueID: 2644345267
+    locked: 0
+  - name: Block
+    uniqueID: 1594199689
+    locked: 0
+  - name: StairBlock
+    uniqueID: 3991508959
+    locked: 0
+  - name: Pipe
+    uniqueID: 1343510169
+    locked: 0
+  - name: Enemy
+    uniqueID: 2570920143
+    locked: 0
+  - name: TurtleCannon
+    uniqueID: 142949043
+    locked: 0
+  - name: Flag
+    uniqueID: 3769192905
+    locked: 0
+  - name: Bullet Player
+    uniqueID: 2760183793
+    locked: 0
+  - name: Boss
+    uniqueID: 2284161221
+    locked: 0
+  - name: Player
+    uniqueID: 2830006757
+    locked: 0
