@@ -462,6 +462,37 @@ public class Player : MonoBehaviour
             
     }
 
+    public void ImmediatelyDie()
+    {
+        //! Set Form
+        m_curIndexForm = 0;
+        int countLayer = m_anim.layerCount;
+
+        //! Reset weight all layer
+        for(int i = 0; i < countLayer; i++)
+            m_anim.SetLayerWeight(i, 0);
+
+        //! Active layer form with current index
+        m_anim.SetLayerWeight(m_curIndexForm, 1);
+
+        //! Active collider with corresponding layer
+        for(int i = 2; i < m_colliders.Length; i++)
+                m_colliders[i].enabled = false;
+                
+        m_colliders[m_curIndexForm + 1].enabled = true;
+        
+
+        //Die
+        m_isLockControl = true;
+        m_anim.SetBool("isDie", true);
+        
+
+        m_audioManager.stopBackgroungMusic();
+        m_audioManager.playEffectAudio(AudioManager.EffectAudio.LostALive);
+        
+        m_levelManager.reloadScene();
+    }
+
     IEnumerator IETurnOffCollisonBySecond(float deltaTime)
     {
         m_colliders[1].isTrigger = true;

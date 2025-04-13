@@ -36545,6 +36545,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: spike
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 112
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bf5ec35d36704d9e3e3643eaa6d67
+      internalID: 1277002620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -36556,6 +36577,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      spike: -1702788224
       tiles-4.png_0: -1209038677
       tiles-4.png_1: -2029581772
       tiles-4.png_10: -354378807
