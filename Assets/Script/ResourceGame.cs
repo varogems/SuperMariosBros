@@ -9,7 +9,8 @@ public class ResourceGame : MonoBehaviour
     {
         Prefab = 0,
         AudioEffect,
-        BackgroundMusic
+        BackgroundMusic,
+        Particle
     }
 
     static List<KeyValuePair<int, List<KeyValuePair<string, UnityEngine.Object>>>> m_listResrc;
@@ -112,6 +113,14 @@ public class ResourceGame : MonoBehaviour
         listBgMusicPrefab.Add(new KeyValuePair<string, UnityEngine.Object>("SMBDX_Overworld_Theme", Resources.Load("Sounds/Musics/SMBDX_Overworld_Theme")));
         m_listResrc.Add(new KeyValuePair<int, List<KeyValuePair<string, UnityEngine.Object>>>((int)ETypeResource.BackgroundMusic, listBgMusicPrefab));
 
+
+        
+        List<KeyValuePair<string, UnityEngine.Object>> listParticlePrefab = new List<KeyValuePair<string, UnityEngine.Object>>();
+        listParticlePrefab.Add(new KeyValuePair<string, UnityEngine.Object>("ParticleFireShooting",    Resources.Load("Prefab/ParticleFireShooting")));
+        
+        m_listResrc.Add(new KeyValuePair<int, List<KeyValuePair<string, UnityEngine.Object>>>((int)ETypeResource.Particle, listParticlePrefab));
+
+
     }
 
     public static List<KeyValuePair<string, UnityEngine.Object>> GetListPrefabByType(ETypeResource type)
@@ -122,6 +131,14 @@ public class ResourceGame : MonoBehaviour
     public static UnityEngine.Object GetPrefab(string namePrefab)
     {
         foreach(KeyValuePair<string, UnityEngine.Object> _obj  in m_listResrc[(int)ETypeResource.Prefab].Value)
+            if(_obj.Key.ToString() == namePrefab)
+                return _obj.Value;
+        return null;
+    }
+
+    public static UnityEngine.Object GetParticle(string namePrefab)
+    {
+        foreach(KeyValuePair<string, UnityEngine.Object> _obj  in m_listResrc[(int)ETypeResource.Particle].Value)
             if(_obj.Key.ToString() == namePrefab)
                 return _obj.Value;
         return null;
@@ -141,4 +158,15 @@ public class ResourceGame : MonoBehaviour
     {
         return m_listResrc[(int)ETypeResource.Prefab].Value[index].Key;
     }
+
+    public static UnityEngine.Object GetParticleByIndex(int index)
+    {
+        return m_listResrc[(int)ETypeResource.Particle].Value[index].Value;
+    }
+
+    public static string GetNameParticleByIndex(int index)
+    {
+        return m_listResrc[(int)ETypeResource.Particle].Value[index].Key;
+    }
+    
 }

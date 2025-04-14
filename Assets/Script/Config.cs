@@ -101,6 +101,7 @@ public class Config : MonoBehaviour
 
 
         //! Player
+        m_PlayerLives           = 2;
         m_PlayerSpeedRun        = 5f;
         m_PlayerSpeedLinear     = 1f;
         m_PlayerMaxSpeedLinear  = 8f;
@@ -111,7 +112,6 @@ public class Config : MonoBehaviour
         
         m_PlayerTimeFiring      = 0.15f;
         m_PlayerTimePosing      = 0.33f;
-        m_PlayerLives           = 1;
         m_PlayerTimeHurt        = 0.6f;
         m_PlayerTimeUpform      = 1f;
         m_PlayerTimeInvicibleAfterBeHurted  = 1f;

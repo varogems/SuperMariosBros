@@ -14,6 +14,18 @@ public class FireBullet : MonoBehaviour
         m_speedMove = 15f;
 
         m_rgb2D.velocity = new Vector2(m_speedMove * transform.localScale.x, 1.2f);
+
+        StartCoroutine(IEWaitAwakePoolManager());
+    }
+
+    IEnumerator IEWaitAwakePoolManager()
+    {
+        // while(ResourceGame.m_instance == null)
+        //     yield return new WaitForSeconds(0.1f);
+
+        if(PoolManager.m_instance == null)
+            yield return new WaitWhile(() => PoolManager.m_instance == null);
+
     }
 
     // Update is called once per frame
@@ -23,6 +35,7 @@ public class FireBullet : MonoBehaviour
         m_rgb2D.velocity = new Vector2(m_speedMove * transform.localScale.x,  
                                         m_rgb2D.velocity.y);
     }
+
 
 
     private void OnCollisionEnter2D(Collision2D other) 
@@ -51,7 +64,11 @@ public class FireBullet : MonoBehaviour
         }
         
         // Destroy(this.gameObject);
+        if(PoolManager.m_instance != null)
+            PoolManager.PlayParticleFireShooting(this.transform);
+
         this.gameObject.SetActive(false);
+        
 
     }
 
@@ -92,6 +109,10 @@ public class FireBullet : MonoBehaviour
 
 
         // Destroy(this.gameObject);
+
+        if(PoolManager.m_instance != null)
+            PoolManager.PlayParticleFireShooting(this.transform);
+            
         this.gameObject.SetActive(false);
         
     }

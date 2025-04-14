@@ -55,6 +55,7 @@ public class SlashBeast : MovingGameObject
     Player          m_player;
     int             m_health;
     bool            m_isActiveBoss;
+    bool            m_isDie;
 
 
 
@@ -91,12 +92,15 @@ public class SlashBeast : MovingGameObject
         m_crtStomp            = null;
         m_isHurted            = false;
         m_health              = 3;
-        m_isActiveBoss          = false;
+        m_isActiveBoss        = false;
+        m_isDie               = false;
 
         
         m_triggerEnemyGameObject    = transform.GetChild(2).gameObject;
 
+
     }
+
 
     public void ActiveBoss()
     {
@@ -109,6 +113,13 @@ public class SlashBeast : MovingGameObject
 
         if(m_crtReadyATK == null && !m_isHurted)
             StartCoroutine(IEATK());
+
+        if(m_isDie)
+            m_spR.color = new Color(m_spR.color.r,
+                                    m_spR.color.g, 
+                                    m_spR.color.b, 
+                                    (m_spR.color.a + 0.49f) % 1f);
+                                    
     }
 
     void FixedUpdate()
@@ -168,6 +179,7 @@ public class SlashBeast : MovingGameObject
         }
         else 
         {
+            m_isDie = true;
             m_animator.SetBool("isDie", true);
             yield return new WaitForSeconds(m_animator.GetCurrentAnimatorStateInfo(0).length);
 

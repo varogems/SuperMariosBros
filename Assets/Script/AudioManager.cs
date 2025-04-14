@@ -127,7 +127,10 @@ public class AudioManager : MonoBehaviour
         m_listBackgroundMusicCLips = new List<AudioClip>();
 
         for(int index = 0; index < list.Count; index++)
-            m_listBackgroundMusicCLips.Add((AudioClip)list[index].Value);
+            {
+                m_listBackgroundMusicCLips.Add((AudioClip)list[index].Value);
+                Debug.Log("Index: " + index);
+            }
 
     }
 

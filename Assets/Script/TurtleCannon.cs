@@ -38,7 +38,13 @@ public class TurtleCannon : MonoBehaviour
     void Shoot()
     {
         m_audioManager.playEffectAudio(AudioManager.EffectAudio.Cannon);
-        PoolManager.SpawnBulletBill(transform);
+
+        Transform _tranformBullet   = transform;
+        _tranformBullet.localScale = new Vector3(Mathf.Sign(m_player.transform.position.x - transform.position.x),
+                                                transform.localScale.y,
+                                                transform.localScale.z);
+                                                
+        PoolManager.SpawnBulletBill(_tranformBullet);
         
         
     }
