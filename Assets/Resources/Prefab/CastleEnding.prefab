@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2310711589896992128}
   - component: {fileID: 2310711589896992131}
   - component: {fileID: 2310711589896992143}
-  m_Layer: 0
+  m_Layer: 19
   m_Name: CastleEnding
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1935267631
-  m_SortingLayer: 7
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: -1891928475, guid: b3a5d94c583f5c947abacfd34f699890, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

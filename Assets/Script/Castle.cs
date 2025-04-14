@@ -22,6 +22,13 @@ public class Castle : MonoBehaviour
             StartCoroutine(IENextLevel());
     }
 
+    public void PlayFirework()
+    {
+        if(PoolManager.m_instance != null)
+            PoolManager.PlayParticleFirework(this.transform);
+    }
+
+
     IEnumerator IENextLevel()
     {
 

@@ -19,7 +19,9 @@ public class PoolManager : MonoBehaviour
     public enum ParticleObjectPoolType
     {
         ParticleFireShooting = 0,
-        // ParticleFireWork,
+        ParticleFireWork1,
+        ParticleFireWork2,
+        ParticleFireWork3,
         Count
     };
     
@@ -189,6 +191,47 @@ public class PoolManager : MonoBehaviour
         gameObject.SetActive(false);
     }
 
+    public static void PlayParticleFirework(Transform _transform)
+    {
+        m_instance.StartCoroutine(m_instance.IEPlayParticleFirework(_transform));
+    }
+
+    IEnumerator IEPlayParticleFirework(Transform _transform)
+    {
+
+        Debug.Log("IEPlayParticleFirework");
+        GameObject gameObject1           = m_listParticleObjectPool[(int)ParticleObjectPoolType.ParticleFireWork1].Value.GetComponent<ObjectPool>().GetPooledObject();
+        gameObject1.transform.position   = _transform.position;
+
+        GameObject gameObject2           = m_listParticleObjectPool[(int)ParticleObjectPoolType.ParticleFireWork2].Value.GetComponent<ObjectPool>().GetPooledObject();
+        gameObject2.transform.position   = _transform.position;
+
+        GameObject gameObject3           = m_listParticleObjectPool[(int)ParticleObjectPoolType.ParticleFireWork3].Value.GetComponent<ObjectPool>().GetPooledObject();
+        gameObject3.transform.position   = _transform.position;
+
+
+        ParticleSystem ps1, ps2, ps3;
+
+        ps1 = gameObject1.GetComponent<ParticleSystem>();
+        ps1.Play();
+
+        ps2 = gameObject2.GetComponent<ParticleSystem>();
+        ps2.Play();
+
+        ps3 = gameObject3.GetComponent<ParticleSystem>();
+        ps3.Play();
+
+        yield return new WaitForSeconds(ps3.main.duration);
+
+        ps1.Stop();
+        ps2.Stop();
+        ps3.Stop();
+
+        gameObject1.SetActive(false);
+        gameObject2.SetActive(false);
+        gameObject3.SetActive(false);
+
+    }
 
 
 

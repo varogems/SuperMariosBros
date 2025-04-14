@@ -118,6 +118,10 @@ public class ResourceGame : MonoBehaviour
         List<KeyValuePair<string, UnityEngine.Object>> listParticlePrefab = new List<KeyValuePair<string, UnityEngine.Object>>();
         listParticlePrefab.Add(new KeyValuePair<string, UnityEngine.Object>("ParticleFireShooting",    Resources.Load("Prefab/ParticleFireShooting")));
         
+        listParticlePrefab.Add(new KeyValuePair<string, UnityEngine.Object>("ParticleFirework1",    Resources.Load("Prefab/ParticleFirework1")));
+        listParticlePrefab.Add(new KeyValuePair<string, UnityEngine.Object>("ParticleFirework2",    Resources.Load("Prefab/ParticleFirework2")));
+        listParticlePrefab.Add(new KeyValuePair<string, UnityEngine.Object>("ParticleFirework3",    Resources.Load("Prefab/ParticleFirework3")));
+        
         m_listResrc.Add(new KeyValuePair<int, List<KeyValuePair<string, UnityEngine.Object>>>((int)ETypeResource.Particle, listParticlePrefab));
 
 

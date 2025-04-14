@@ -13,6 +13,7 @@ public class Flag : MonoBehaviour
     Player                  m_player;
 
     AudioManager            m_audioManager;
+    Castle                  m_castle;
     void Awake() 
     {
         m_height        = Config.m_FlagDistanceMove;
@@ -24,6 +25,7 @@ public class Flag : MonoBehaviour
 
         m_player        = FindObjectOfType<Player>();
         m_audioManager  = FindObjectOfType<AudioManager>();
+        m_castle = FindObjectOfType<Castle>();
     }
 
     void Update()
@@ -49,6 +51,7 @@ public class Flag : MonoBehaviour
             m_startPos      = m_transformFlag.position;
             m_player.Climb(m_getDownFlag);
             m_audioManager.playEffectAudio(AudioManager.EffectAudio.FlagDown);
+            m_castle.PlayFirework();
         }
     }
 }
